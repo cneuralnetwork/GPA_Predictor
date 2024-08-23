@@ -12,4 +12,5 @@ Vinesh,8.72,9.12
 Name the csv file, as `data.csv`
 and then run main.py
 
-![test run](gpa_img.png)
+![gpa_img](https://github.com/user-attachments/assets/731ecc7a-d2c7-4548-a6e2-ba77a68eb246)
+

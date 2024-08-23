@@ -12,4 +12,4 @@ Vinesh,8.72,9.12
 Name the csv file, as `data.csv`
 and then run main.py
 
-!(test run)[gpa_img.png]
+![test run](gpa_img.png)
